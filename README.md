@@ -38,7 +38,7 @@ If you find this repo useful in your research, please consider citing:
 }
 ```
 
-# About The Project Secondments
+# About The Project
 
 This repository contains the results of the collaboration between the Irish Traditional Music Archive and researchers from University of Salamanca, as part of the European project "EA-Digifolk".
 
@@ -54,3 +54,10 @@ This repository contains the results of the collaboration between the Irish Trad
     <img src="https://cordis.europa.eu/images/logo/logo-ec-es.svg" alt="Logo" width="250" height="100" style="margin:10px;padding:20px;">
   </a>
 </div>
+
+
+# References about utils
+
+We use several python tools to process the data. Here we list the main ones:
+
+* [abc2xml]()
