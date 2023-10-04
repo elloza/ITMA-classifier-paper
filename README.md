@@ -3,7 +3,7 @@ Datasets and Demo for research paper: Identifying Irish traditional music genres
 
 # Demo notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elloza/DIGIFOLK-USAL-ITMA/blob/master/researchline1/tool/DemoTool.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elloza/ITMA-classifier-paper/blob/main/demo/DemoTool.ipynb)
 
 ## Trained Models:
 
