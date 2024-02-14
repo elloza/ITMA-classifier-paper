@@ -40,7 +40,8 @@ Dataset with all embeddings: https://drive.google.com/file/d/136CftGuB3LuXAKYCy7
 <!-- CITATION -->
 ### Citation
 
-[Identifying Irish traditional music genresusing latent audio representations](https://doi.org/10.5281/zenodo.10659380)
+[![DOI](https://zenodo.org/badge/700259318.svg)](https://zenodo.org/doi/10.5281/zenodo.10659379)
+
 If you find this repo useful in your research, please consider citing:
 
 ```
